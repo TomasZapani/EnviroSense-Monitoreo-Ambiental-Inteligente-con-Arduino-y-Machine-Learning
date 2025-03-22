@@ -1,1 +1,1 @@
-![Circuito del proyecto](imagenes/circuito.jpg)
+![Circuito del proyecto](IMG_2645.jpeg)
